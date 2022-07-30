@@ -16,7 +16,9 @@ Newest release of my personal portfolio
 
 > This is currently my personal portfolio website.
 
-> I have not hosted it yet but i will host it soon and drop a link to view the site _very soon_.
+> To view the portfolio, click the link below
+
+[leooportfolio](https://leooportfolio.netlify.app)
 
 > I will also be making further updates and upgrades to it
 
