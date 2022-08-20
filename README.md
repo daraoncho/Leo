@@ -6,11 +6,11 @@ Newest release of my personal portfolio
 
 ### On mobile
 
-![mobile-preview](/Images/mobile-preview.png)
+![mobile-preview](/Images/mobile-preview--v2.jpeg)
 
 ### On Desktop
 
-![desktop-preview](/Images/desktop-preview.png)
+![desktop-preview](/Images/desktop-preview-v2.png)
 
 ## About
 
@@ -22,6 +22,8 @@ Newest release of my personal portfolio
 
 > I will also be making further updates and upgrades to it
 
+- Version 2 **v2.0** is out
+
 ## Features
 
 > The portfolio has some features and you will witness them.
@@ -30,17 +32,20 @@ Newest release of my personal portfolio
 
 1. _On Desktop,_
 
-- Presence of hero-image and work-image
-- Presence of nav bars to lead to each point with smooth scroll-effect
+- Presence of hero-image
+- Presence of nav bars which are fixed to the left hand of the page along with the hero-images
+- Each level or section you're on is highlighted on the nav
 
 2. _On Mobile_
 
-- Absence of hero-image and work-image
-- Presence of hamburger icon bar(i have not made this to be responsive yet i.e you cant toggle it to activate nav icons)
+- Absence of hero-image and the nav-bars is not fixed to the page but instead...
+- Presence of hamburger icon bar(which you can toggle to see the nav bars)
 
 ## Updates
 
 > I intend to update and upgrade the portfolio and see what i can make of it
+
+> **v2.0** is out
 
 ## Contributions
 
